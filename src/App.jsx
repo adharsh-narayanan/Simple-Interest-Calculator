@@ -79,11 +79,11 @@ function App() {
     setAmount(0)
     setRate(0)
     setYear(0)
+    setInterest(0)
     setIsAmount(true)
     setIsRate(true)
     setIsYear(true)
-
-    
+         
   }
 
   const calculate=(e)=>{
